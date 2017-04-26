@@ -1,0 +1,6 @@
+c:\users\vishal.shah\documents\visual studio 2015\Projects\HelloWorldHarness\HelloWorldHarness\bin\Debug\HelloWorldHarness.exe.config
+c:\users\vishal.shah\documents\visual studio 2015\Projects\HelloWorldHarness\HelloWorldHarness\bin\Debug\HelloWorldHarness.exe
+c:\users\vishal.shah\documents\visual studio 2015\Projects\HelloWorldHarness\HelloWorldHarness\bin\Debug\HelloWorldHarness.pdb
+c:\users\vishal.shah\documents\visual studio 2015\Projects\HelloWorldHarness\HelloWorldHarness\obj\Debug\HelloWorldHarness.csprojResolveAssemblyReference.cache
+c:\users\vishal.shah\documents\visual studio 2015\Projects\HelloWorldHarness\HelloWorldHarness\obj\Debug\HelloWorldHarness.exe
+c:\users\vishal.shah\documents\visual studio 2015\Projects\HelloWorldHarness\HelloWorldHarness\obj\Debug\HelloWorldHarness.pdb
